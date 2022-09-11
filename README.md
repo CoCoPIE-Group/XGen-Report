@@ -1,2 +1,2 @@
 # XGen-Report
-The repository for reporting issues about CoCoPIE XGen. 
+This repository is for users to report issues related to CoCoPIE XGen. 
